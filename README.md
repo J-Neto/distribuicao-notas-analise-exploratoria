@@ -13,3 +13,10 @@
     - Pandas (... para manipular os 'dataframes')
     - Matplotlib (plotar os gráficos)
     - Seaborn (estilização dos gráficos)
+
+## Ferramentas utilizadas:
+    - Anaconda, mais precisamente o Jupyter
+    - VS Code com a extensão do Jupyer
+
+## Dicas:
+    - Caso você tenha dúvidas, basta digitar 'ctrl+shift+p', digitar 'jupyter' e selecionar 'Create New Jupyter Notebook'
