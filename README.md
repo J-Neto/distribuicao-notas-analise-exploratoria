@@ -20,3 +20,26 @@
 
 ## Dicas:
     - Caso você tenha dúvidas, basta digitar 'ctrl+shift+p', digitar 'jupyter' e selecionar 'Create New Jupyter Notebook'
+
+## Tipos de variáveis:
+    * Categóricas (Qualitativas):
+        - Categorizam algo sem propriedade numérica
+    
+        * Nominal:
+            - Apenas nomenclatura, sem propriedade de ordenação
+            Ex: sigla de países (en, jp, etc...)
+
+        * Ordinal:
+            - Ordena kk
+            - Ex: primeiro grau, segundo grau e terceiro grau
+
+    * Quantitativas:
+        - Descrevem quantidade
+
+        * Contínuo:
+            - Não possui intervalo definido
+            Ex: orçamento
+        
+        * Discreto: 
+            - Intervalo definido inteiro
+            Ex: votos
